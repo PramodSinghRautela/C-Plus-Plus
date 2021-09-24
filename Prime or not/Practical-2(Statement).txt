@@ -1,0 +1,2 @@
+PRACTICAL -2
+Program to check weather a number is prime or not.
