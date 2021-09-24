@@ -1,0 +1,2 @@
+PRACTICAL 1:-
+Inside Working of a compiler.
